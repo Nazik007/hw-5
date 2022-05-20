@@ -1,5 +1,3 @@
-package goit.hw5;
-
 class Level {
     private int width;
     private int height;
